@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "name": "basicvariables",
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  },
+  "scripts": {
+    "test": "mocha test.basicVariables.js"
+  }
+}
