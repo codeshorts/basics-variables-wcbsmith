@@ -3,7 +3,7 @@ const basicVariables = () => {
   let greeting = "Hello World!";
   
   // Return the variable below 
-  return greeting};
+  return greeting;
   
 }
 
